@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema de cadastro e bonificacao de novos colaboradores 
 
 
@@ -33,3 +34,4 @@ bônus de boas-vindas: R$600,00 salário final: R$4.600,00
 
 ##Autor 
 @kauanhenrique182010@gmail.com
+
